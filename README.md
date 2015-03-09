@@ -1,28 +1,9 @@
-<h1 align="center">Backbone.Marionette</h1>
+<h1 align="center">北京时代复兴投资管理有限公司（深圳）</h1>
 <p align="center">
-  <img title="backbone marionette" src='https://cdn.mediacru.sh/6sNqngKFuqft.svg' />
-</p>
-<p align="center">The Backbone framework</p>
-<p align="center">
-  <a title='Build Status' href="https://travis-ci.org/marionettejs/backbone.marionette">
-    <img src='https://secure.travis-ci.org/marionettejs/backbone.marionette.svg?branch=master' />
-  </a>
-  <a href='https://coveralls.io/r/marionettejs/backbone.marionette'>
-    <img src='https://img.shields.io/coveralls/marionettejs/backbone.marionette.svg' alt='Coverage Status' />
-  </a>
-  <a href='https://gitter.im/marionettejs/backbone.marionette?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge'>
+  <a href='https://gitter.im/renaissance-era?utm_source=share-link&utm_medium=link&utm_campaign=share-link'>
     <img src='https://badges.gitter.im/Join%20Chat.svg' alt='Gitter Chat' />
   </a>
 </p>
-
-
-# 北京时代复兴投资管理有限公司（深圳）
-
-## 面试流程
-
-* 
-
-
 
 
 ## 岗位要求
